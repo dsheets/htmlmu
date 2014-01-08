@@ -7,7 +7,7 @@ BUILD=_build
 HAS_CMDLINER := $(shell ocamlfind query cmdliner > /dev/null; echo $$?)
 
 COMMON_MLI=lib/*.mli $(BUILD)/lib/*.cmi
-COMMON_PKGS=uri,xmlmu.cmdliner
+COMMON_PKGS=xmlm,xmlmu.cmdliner
 COMMON_TGTS=lib/$(LIB_NAME).cma lib/$(LIB_NAME).cmxa lib/$(LIB_NAME).a
 COMMON_INCS=-I lib
 
