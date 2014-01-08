@@ -1,0 +1,9 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <math>
+    <mrow>
+      <mi>a</mi> <mo>&InvisibleTimes;</mo> <msup><mi>x</mi><mn>2</mn></msup>
+      <mo>+</mo><mi>b</mi><mo>&InvisibleTimes;</mo><mi>x</mi>
+      <mo>+</mo><mi>c</mi>
+    </mrow>
+  </math>
+</html>

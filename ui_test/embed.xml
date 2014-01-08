@@ -1,0 +1,16 @@
+<root xmlns="not-xhtml">
+  <p />
+  <math />
+  <svg />
+  <a />
+  <html-container xmlns="http://www.w3.org/1999/xhtml">
+    <p />
+    <math />
+    <svg />
+    <a />
+  </html-container>
+  <p />
+  <math />
+  <svg />
+  <a />
+</root>

@@ -1,0 +1,7 @@
+version = "0.1.0"
+description = "HTML MarkUp stream processing"
+archive(byte) = "htmlmu.cma"
+archive(native) = "htmlmu.cmxa"
+exists_if = "htmlmu.cma"
+requires = "xmlmu.cmdliner uri"
+
